@@ -16,6 +16,9 @@ Even though I've lived in the area my whole life, I'm **brand new** to Hyde Park
 - Go to mountainous places and hike (***Montana is my happy place***)
 
 ### Here are a few pictures of my favorite places
+![Livingston, MT](/Users/haileyhansen/Desktop/IMG_0571.jpeg)
+![Me in Glacier National Park](/Users/haileyhansen/Desktop/IMG_4452.jpeg)
+![Pictured Rocks, MI](/Users/haileyhansen/Desktop/IMG_5776.JPG)
 
 ### Here's a link to a Trib article I was featured in during high school
 <https://www.chicagotribune.com/2015/10/13/hailey-hansen-thriving-under-trinitys-new-training-program-for-runners/>
