@@ -4,13 +4,27 @@ For this assignment, you will submit TWO files -- the readme and the script file
 
 
 Edit this README file to include a brief biography of yourself. Your README should include the following elements:
-* Headers (one or more)
-* Emphasis (italics or/and bold)
-* Lists
-* Images: add a picture (of yourself or something else) to your repo and embed it in your README
-* Links
-* A summary and reflection of the Git/GitHub workflow you adopted for this homework, and of your experience with Markdown (e.g., provide a summary of the workflow you adopted, and add some comments about something new you learned, something that surprised you, etc.)
+# Hi! I'm Hailey!
+I was born and raised in Oak Park, which is a suburb just west of the city of Chicago.
+Even though I've lived in the area my whole life, I'm **brand new** to Hyde Park.
 
+## Some things I like to do include:
+- Read (I read 64 books last year!)
+- Run
+- Rock climb
+- Go to concerts (my favorite venue in the city is Thalia Hall)
+- Go to mountainous places and hike (***Montana is my happy place***)
+
+### Here are a few pictures of my favorite places
+
+### Here's a link to a Trib article I was featured in during high school
+<https://www.chicagotribune.com/2015/10/13/hailey-hansen-thriving-under-trinitys-new-training-program-for-runners/>
+* Images: add a picture (of yourself or something else) to your repo and embed it in your README
+# My Git/GitHub Workflow
+## My Experience with Markdown...
+... is admittedly minimal. I looked up the syntax for all of the above formatting required for this task.
+
+* A summary and reflection of the Git/GitHub workflow you adopted for this homework, and of your experience with Markdown (e.g., provide a summary of the workflow you adopted, and add some comments about something new you learned, something that surprised you, etc.)
 
 
 
