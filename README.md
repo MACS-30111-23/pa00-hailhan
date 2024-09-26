@@ -1,9 +1,3 @@
-# PA 00
-
-For this assignment, you will submit TWO files -- the readme and the script file. 
-
-
-Edit this README file to include a brief biography of yourself. Your README should include the following elements:
 # Hi! I'm Hailey!
 I was born and raised in Oak Park, which is a suburb just west of the city of Chicago.
 Even though I've lived in the area my whole life, I'm **brand new** to Hyde Park.
@@ -22,21 +16,12 @@ Even though I've lived in the area my whole life, I'm **brand new** to Hyde Park
 
 ### Here's a link to a Trib article I was featured in during high school
 <https://www.chicagotribune.com/2015/10/13/hailey-hansen-thriving-under-trinitys-new-training-program-for-runners/>
-* Images: add a picture (of yourself or something else) to your repo and embed it in your README
-# My Git/GitHub Workflow
+
+## My Git/GitHub Workflow...
+... for this project involved forking the PA00 repository into my own branch, editing the documents in the branch in VS code,
+and then committing and pushing those edits back to the branch in GitHub
+
 ## My Experience with Markdown...
 ... is admittedly minimal. I looked up the syntax for all of the above formatting required for this task.
-
-* A summary and reflection of the Git/GitHub workflow you adopted for this homework, and of your experience with Markdown (e.g., provide a summary of the workflow you adopted, and add some comments about something new you learned, something that surprised you, etc.)
-
-
-
-## 📚  Resources 
-* [A short video explaining what GitHub is](https://www.youtube.com/watch?v=w3jLJU7DT5E&feature=youtu.be) 
-* [Git and GitHub learning resources](https://docs.github.com/en/github/getting-started-with-github/git-and-github-learning-resources) 
-* [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
-* [How to use GitHub branches](https://www.youtube.com/watch?v=H5GJfcp3p4Q&feature=youtu.be)
-* [Interactive Git training materials](https://githubtraining.github.io/training-manual/#/01_getting_ready_for_class)
-* [GitHub's Learning Lab](https://lab.github.com/)
-* [Education community forum](https://education.github.community/)
-* [GitHub community forum](https://github.community/)
+I find Markdown to be very intuitive now that I know the syntax (ie. a different number of hashes to denote different 
+header sizes)
